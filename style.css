@@ -318,6 +318,9 @@ body::before {
 }
 .content .item p {
   font-size: small;
+  text-align: center;
+    padding: 0 !important;
+    margin: 15px 0 !important;
 }
 /* .content .item::before {
   position: absolute;
